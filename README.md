@@ -18,7 +18,7 @@
 * **Operating Hours:**
   * **Morning Shift:** 06:00 AM – 11:00 AM (Mon – Sat)
   * **Evening Shift:** 05:00 PM – 10:00 PM (Mon – Sat)
-  * **Sunday:** 07:00 AM – 11:00 AM
+  * **Sunday:** Closed (Rest & Recovery Day)
 
 ---
 

@@ -44,13 +44,9 @@ function initLiveGymStatus() {
     let statusText = '';
 
     if (day === 0) {
-      // Sunday: 7:00 AM to 11:00 AM
-      if (timeVal >= 7.0 && timeVal < 11.0) {
-        isOpen = true;
-        statusText = '🟢 OPEN NOW (Sunday Batch: 7–11 AM)';
-      } else {
-        statusText = '🔴 CLOSED (Opens Monday at 6:00 AM)';
-      }
+      // Sunday: Gym is Closed all day for deep cleaning & recovery
+      isOpen = false;
+      statusText = '🔴 CLOSED TODAY (Sunday Rest & Recovery — Opens Monday at 6:00 AM)';
     } else {
       // Mon - Sat
       if (timeVal >= 6.0 && timeVal < 11.0) {
