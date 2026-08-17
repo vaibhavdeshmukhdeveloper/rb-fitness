@@ -36,6 +36,7 @@
   * `🟢 OPEN NOW (Evening Shift: 5–10 PM)`
   * `🟡 OPENS TODAY AT 5:00 PM (Evening Shift)`
   * `🔴 CLOSED FOR THE NIGHT (Opens 6:00 AM)`
+  * `🔴 CLOSED TODAY (Sunday Rest & Recovery — Opens Monday at 6:00 AM)`
 
 ### 3. VIP Free 1-Day Trial Pass Voucher Generator
 * Interactive popup modal generating random VIP voucher passcodes (`RB-VIP-XXXX`).
