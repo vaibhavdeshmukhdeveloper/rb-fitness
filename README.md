@@ -12,7 +12,7 @@
 
 * **Name:** Reformation Body Fitness
 * **Location:** 2nd Floor, Hirapur Rd, beside Urban Biryani Restaurant, Sarvodaya Nagar, Mohba Bazar, Raipur, Chhattisgarh 492001
-* **Contact / WhatsApp:** [+91 70002 50548](tel:+917000250548)
+* **Contact / WhatsApp:** [099812 03459 / +91 99812 03459](tel:+919981203459)
 * **Instagram:** [@reformation.body](https://www.instagram.com/reformation.body)
 * **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/gWubvjJEzdBuVrG7A)
 * **Operating Hours:**

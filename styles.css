@@ -859,32 +859,39 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--accent-green);
 }
 
+.bmi-meter-wrapper {
+  margin-block: 0.75rem 1.75rem;
+}
+
 .bmi-meter {
   position: relative;
   height: 10px;
   background: linear-gradient(90deg, #00d2ff 0%, #25d366 35%, #ffb703 65%, #ff2a5f 100%);
   border-radius: var(--radius-pill);
-  margin-bottom: 2rem;
+  margin-bottom: 0.65rem;
 }
 
 .meter-bar {
   position: absolute;
-  top: -4px;
-  width: 18px;
-  height: 18px;
-  background: #fff;
+  top: -5px;
+  width: 20px;
+  height: 20px;
+  background: #ffffff;
+  border: 2px solid #0d0f15;
   border-radius: 50%;
-  box-shadow: 0 0 8px rgba(0,0,0,0.8);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9), 0 0 6px var(--accent-crimson);
   transform: translateX(-50%);
   transition: left 0.3s ease;
+  z-index: 2;
 }
 
 .meter-labels {
   display: flex;
   justify-content: space-between;
-  font-size: 0.7rem;
-  color: var(--text-muted);
-  margin-top: 14px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  padding-inline: 4px;
 }
 
 .recommendation-box {

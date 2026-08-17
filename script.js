@@ -5,7 +5,7 @@
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-  const GYM_PHONE = '917000250548';
+  const GYM_PHONE = '919981203459';
 
   // 1. LIVE GYM OPEN / CLOSED STATUS
   initLiveGymStatus();
